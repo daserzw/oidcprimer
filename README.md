@@ -14,6 +14,8 @@ Who is it for?: Developers of resources for web and mobile will especially benef
 
 **Trainers:** Andrea Biancini, Davide Vaghetti
 
+**This training has been organized in collaboration with the [AARC2 project](https://aarc-project.eu/).**
+
 # Assignment instructions
 Download this repository.
 Choose one of the following assignments and follow the linked instructions:
