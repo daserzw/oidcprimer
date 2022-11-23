@@ -5,7 +5,7 @@ finally the Resource Server. It can be freely used in courses about OAuth2.
 
 ## How to run
 
-In order to use this simple client, open config.py and setup:
+In order to use this simple client, open config.py and set:
 - a SECRET_KEY (see instruction in config.py)
 - an Authorization Server Authorization Endpoint in AS_AUTH_URL (or uncomment the Github one)
 - an Authorization Server Token Endpoint (or uncomment the Github one)
@@ -14,7 +14,7 @@ In order to use this simple client, open config.py and setup:
 - the OAuth2 Client REDIRECT_URI, composed by your base URL + ':9000/cb'
 
 ## Virtualenv
-We strongly reccomend to use virtualenv to set up the python environment to run the Flask app:
+We strongly recommend to set up a virtualenv where to run the Flask app:
 
 ```
 virtualenv venv
